@@ -26,7 +26,7 @@ You have been provided with data on the under-five mortality rate and neonatal m
 You should work on an RMD document that is saved in your name, e.g juma_fulani.rmd.
 Kindly ensure you show the code in your data. 
 
-The rmd should be uploaded on this link (to add) by this date at 6pm EAT. Kindly note that documents uploaded past the deadline will not be considered.
+The rmd should be uploaded on this link (https://docs.google.com/forms/d/e/1FAIpQLSd2gFkhTt1KP9vb74pYCsvFgrO0QZb_1js5fK2Aak-phAYxiA/viewform?usp=sharing ) by this 27th April 2025 at 8pm EAT. Kindly note that documents uploaded past the deadline will not be considered.
 
 
 
